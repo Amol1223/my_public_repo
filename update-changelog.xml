@@ -3,7 +3,6 @@
     <latestVersion>0.42.60</latestVersion>
     <latestVersionCode>106</latestVersionCode>
 	<url>https://mail.google.com/mail/u/0/#inbox</url>
-	
     <releaseNotes>
 * BUG FIXED : Minor bug fix
 * NEW : Now easily 'mark as done' activities from dashboard, 'Mark as done' tiles added
