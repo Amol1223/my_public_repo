@@ -1,10 +1,8 @@
 <AppUpdater>
   <update>
-    <latestVersion>0.42.45</latestVersion>
-    <latestVersionCode>101</latestVersionCode>
-
-	<url>https://mail.google.com/mail/u/0/#inbox</url>
-	
+    <latestVersion>0.42.59-beta</latestVersion>
+    <latestVersionCode>106</latestVersionCode>
+    <url>https://play.google.com/store/apps/details?id=asd.myschedule</url>
     <releaseNotes>
 * BUG FIXED : Minor bug fix
 * NEW : Now easily 'mark as done' activities from dashboard, 'Mark as done' tiles added
