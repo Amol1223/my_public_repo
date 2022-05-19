@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
-    <latestVersion>v0.42.59-beta</latestVersion>
-    <latestVersionCode>108</latestVersionCode>
+    <latestVersion>0.42.59-beta</latestVersion>
+    <latestVersionCode>113</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=asd.myschedule</url>
     <releaseNotes>
 * BUG FIXED : Minor bug fix
