@@ -1,20 +1,16 @@
 <AppUpdater>
   <update>
-    <latestVersion>0.50.62-beta</latestVersion>
-    <latestVersionCode>124</latestVersionCode>
+    <latestVersion>0.60.69-beta</latestVersion>
+    <latestVersionCode>146</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=asd.myschedule</url>
     <releaseNotes>
-* BUG FIXED : "Mark as done" tiles are not ordered fixed
-* BUG FIXED : Day not showing on "mark as done" tiles fixed
-* BUG FIXED : Showing wrong upcoming activity on dashboard fixed
-* NEW : Tile added to notify if update available
-* NEW : Welcome note added
-* NEW : On boarding feature slides added - Showcasing top features.
-* NEW : On boarding checklist added - To ensure user understands the functionality completely, help on each unique functionality
-* NEW : Walk-through added - To walk-through each functionality so user will know where to find what
-* NEW : Formatting option added in focus mode notes
-* NEW : Gradient color change on schedule, dashboard, alarms, activities and community tabs
-* NEW : Now create tasks, events or reminder from templates
+* BUG FIXED : Multiple notifications for morning greet and bedtime fixed
+* BUG FIXED : Quote notification not receiving for few users fixed
+* BUG FIXED : Login screen issue fixed
+* NEW : Android 12 support added
+* NEW : Quote of the day notification can be enabled/disabled in settings
+* NEW : App Logo changed
+* Splash screen, Dashboard screen performance improvements
     </releaseNotes>
   </update>
 </AppUpdater>
