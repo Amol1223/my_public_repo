@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
     <latestVersion>0.60.69-beta</latestVersion>
-    <latestVersionCode>145</latestVersionCode>
+    <latestVersionCode>146</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=asd.myschedule</url>
     <releaseNotes>
 * BUG FIXED : Multiple notifications for morning greet and bedtime fixed
